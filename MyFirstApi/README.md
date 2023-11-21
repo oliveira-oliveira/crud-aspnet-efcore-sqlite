@@ -1,0 +1,1 @@
+Criação de um crud em asp.net utilizando como banco o SQLite e Entity FrameworkCore.
